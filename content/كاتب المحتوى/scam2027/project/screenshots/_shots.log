@@ -1,0 +1,31 @@
+desktop-00-login.png ← /login — صفحة الدخول (مستأجر demo)
+desktop-01-dashboard.png ← /dashboard — لوحة مدير المستأجر (بيانات seed)
+desktop-02-users.png ← /users — المستخدمون (34 من seed)
+desktop-03-roles.png ← /roles — الأدوار والصلاحيات (114 صلاحية)
+desktop-04-role-detail.png ← /roles/[id] — مصفوفة صلاحيات دور
+desktop-05-academic-colleges.png ← /academic/colleges — البنية الأكاديمية
+desktop-06-academic-years.png ← /academic/years — الأعوام والفصول
+desktop-07-courses.png ← /courses — المقررات (6 من seed)
+desktop-08-offerings.png ← /offerings — الشُعب/العروض (4) والتسجيل
+desktop-09-offering-detail.png ← /offerings/[id] — شعبة بطلابها المسجّلين
+desktop-10-files.png ← /files — الملفات (2 عيّنة، تخزين محلي)
+desktop-11-notifications.png ← /notifications — الإشعارات
+desktop-12-trash.png ← /trash — سلة المحذوفات الموحّدة
+desktop-14-student-dashboard.png ← /dashboard — لوحة الطالب
+desktop-15-student-courses.png ← /courses — مقررات الطالب
+mobile-00-login.png ← /login — صفحة الدخول (مستأجر demo)
+mobile-01-dashboard.png ← /dashboard — لوحة مدير المستأجر (بيانات seed)
+mobile-02-users.png ← /users — المستخدمون (34 من seed)
+mobile-03-roles.png ← /roles — الأدوار والصلاحيات (114 صلاحية)
+mobile-04-role-detail.png ← /roles/[id] — مصفوفة صلاحيات دور
+mobile-05-academic-colleges.png ← /academic/colleges — البنية الأكاديمية
+mobile-06-academic-years.png ← /academic/years — الأعوام والفصول
+mobile-07-courses.png ← /courses — المقررات (6 من seed)
+mobile-08-offerings.png ← /offerings — الشُعب/العروض (4) والتسجيل
+mobile-09-offering-detail.png ← /offerings/[id] — شعبة بطلابها المسجّلين
+mobile-10-files.png ← /files — الملفات (2 عيّنة، تخزين محلي)
+mobile-11-notifications.png ← /notifications — الإشعارات
+mobile-12-trash.png ← /trash — سلة المحذوفات الموحّدة
+mobile-13-nav-open.png ← قائمة التنقل مفتوحة على الجوال
+mobile-14-student-dashboard.png ← /dashboard — لوحة الطالب
+mobile-15-student-courses.png ← /courses — مقررات الطالب
